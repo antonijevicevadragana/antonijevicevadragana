@@ -1,4 +1,4 @@
-<img src=./image/background.png width='150%'>
+<img src=./image/bg.png width='150%'>
 <h2 align="left"> About me</h2>
 <p align="left">I successfully completed an IT bootcamp - PHP development organized by the Vlade Divac Foundation.
 The IT bootcamp is an excellent starting point for me to enter the world of programming, to become part of those who create web applications and help employees from various fields to be more productive in their work. I continue to learn and pursue professional development.</p>
